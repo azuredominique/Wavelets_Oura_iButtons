@@ -3,3 +3,6 @@
 *.xlsx
 *.mat
 *.parquet
+
+
+.ipynb_checkpoints/
